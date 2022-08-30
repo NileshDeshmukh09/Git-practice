@@ -6,4 +6,6 @@
  * 
  *  -------- git checkout ---
  * 
+ * 3. added some new lines
+ * 
  */

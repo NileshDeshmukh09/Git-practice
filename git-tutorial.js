@@ -17,5 +17,4 @@
  *  ** Add seconed newBranch change 02
  * 
  * **change for squash
- * ** One more change for SquashCommand
- */
+ * ** One more change for NewBranch

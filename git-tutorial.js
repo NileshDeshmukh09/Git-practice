@@ -10,4 +10,6 @@
  * 
  * 4. Added somethine New 
  * 
+ *  --- git NewBranch added -------
+ * git Checkout -b NewBranch Added
  */

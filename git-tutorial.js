@@ -16,6 +16,11 @@
  *  ** Add some changes after merging NewBranch to master
  *  ** Add seconed newBranch change 02
  * 
+<<<<<<< HEAD
  * --- Add NewBranch change 03
  * --NewBranch change 04
+=======
+ * **change for squash
+ * ** One more change for SquashCommand
+>>>>>>> NewBranch
  */

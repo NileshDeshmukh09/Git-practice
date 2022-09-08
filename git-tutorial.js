@@ -12,4 +12,6 @@
  * 
  *  --- git NewBranch added -------
  * git Checkout -b NewBranch Added
+ * 
+ *  ** Add some changes after merging NewBranch to master
  */

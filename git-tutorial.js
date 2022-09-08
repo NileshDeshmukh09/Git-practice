@@ -21,6 +21,10 @@
  * --NewBranch change 04
 =======
  * **change for squash
+<<<<<<< HEAD
  * ** One more change for SquashCommand
 >>>>>>> NewBranch
  */
+=======
+ * ** One more change for NewBranch
+>>>>>>> NewBranch
